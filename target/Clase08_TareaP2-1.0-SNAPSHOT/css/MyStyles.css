@@ -34,5 +34,8 @@
     border-right: solid 2px;
 }
 .borderleft{
-    border-left: solid 2px;
+    border-left: 2px solid black;
+}
+.bg-gris{
+    background: gainsboro; 
 }
